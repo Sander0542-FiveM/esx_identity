@@ -1,5 +1,5 @@
 Config                  = {}
-Config.Locale           = 'en'
+Config.Locale           = 'nl'
 
 -- [Config.EnableCommands]
 -- Enables Commands Such As /char and /chardel
